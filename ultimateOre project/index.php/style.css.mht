@@ -1,0 +1,5560 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_01D30A18.8F32A470"
+
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive, such as Windows® Internet Explorer®.
+
+------=_NextPart_01D30A18.8F32A470
+Content-Location: file:///C:/1E689AD3/style.css.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 15">
+<meta name=3DOriginator content=3D"Microsoft Word 15">
+<link rel=3DFile-List href=3D"style.css_files/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>HP</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>HP</o:LastAuthor>
+  <o:Revision>1</o:Revision>
+  <o:TotalTime>1</o:TotalTime>
+  <o:Created>2017-07-31T15:16:00Z</o:Created>
+  <o:LastSaved>2017-07-31T15:17:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>4126</o:Words>
+  <o:Characters>23520</o:Characters>
+  <o:Lines>196</o:Lines>
+  <o:Paragraphs>55</o:Paragraphs>
+  <o:CharactersWithSpaces>27591</o:CharactersWithSpaces>
+  <o:Version>15.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=3DthemeData href=3D"style.css_files/themedata.thmx">
+<link rel=3DcolorSchemeMapping href=3D"style.css_files/colorschememapping.x=
+ml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val=3D"Cambria Math"/>
+   <m:brkBin m:val=3D"before"/>
+   <m:brkBinSub m:val=3D"&#45;-"/>
+   <m:smallFrac m:val=3D"off"/>
+   <m:dispDef/>
+   <m:lMargin m:val=3D"0"/>
+   <m:rMargin m:val=3D"0"/>
+   <m:defJc m:val=3D"centerGroup"/>
+   <m:wrapIndent m:val=3D"1440"/>
+   <m:intLim m:val=3D"subSup"/>
+   <m:naryLim m:val=3D"undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" DefUnhideWhenUsed=3D"false"
+  DefSemiHidden=3D"false" DefQFormat=3D"false" DefPriority=3D"99"
+  LatentStyleCount=3D"371">
+  <w:LsdException Locked=3D"false" Priority=3D"0" QFormat=3D"true" Name=3D"=
+Normal"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 9"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 9"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 9"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal Indent"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"footnote text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"annotation text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"header"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"footer"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index heading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"35" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"caption"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"table of figures"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"envelope address"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"envelope return"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"footnote reference"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"annotation reference"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"line number"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"page number"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"endnote reference"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"endnote text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"table of authorities"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"macro"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"toa heading"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"10" QFormat=3D"true" Name=3D=
+"Title"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Closing"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Signature"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Default Paragraph Font"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text Indent"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Message Header"/>
+  <w:LsdException Locked=3D"false" Priority=3D"11" QFormat=3D"true" Name=3D=
+"Subtitle"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Salutation"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Date"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text First Indent"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text First Indent 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Note Heading"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text Indent 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text Indent 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Block Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Hyperlink"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"FollowedHyperlink"/>
+  <w:LsdException Locked=3D"false" Priority=3D"22" QFormat=3D"true" Name=3D=
+"Strong"/>
+  <w:LsdException Locked=3D"false" Priority=3D"20" QFormat=3D"true" Name=3D=
+"Emphasis"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Document Map"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Plain Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"E-mail Signature"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Top of Form"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Bottom of Form"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal (Web)"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Acronym"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Address"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Cite"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Code"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Definition"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Keyboard"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Preformatted"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Sample"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Typewriter"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Variable"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal Table"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"annotation subject"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"No List"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Outline List 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Outline List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Outline List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Contemporary"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Elegant"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Professional"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Subtle 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Subtle 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Balloon Text"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"Table Grid"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Theme"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" Name=3D"Placeholder =
+Text"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" Name=3D"=
+No Spacing"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" Name=3D"Revision"/>
+  <w:LsdException Locked=3D"false" Priority=3D"34" QFormat=3D"true"
+   Name=3D"List Paragraph"/>
+  <w:LsdException Locked=3D"false" Priority=3D"29" QFormat=3D"true" Name=3D=
+"Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"30" QFormat=3D"true"
+   Name=3D"Intense Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"19" QFormat=3D"true"
+   Name=3D"Subtle Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"21" QFormat=3D"true"
+   Name=3D"Intense Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"31" QFormat=3D"true"
+   Name=3D"Subtle Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"32" QFormat=3D"true"
+   Name=3D"Intense Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"33" QFormat=3D"true" Name=3D=
+"Book Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"37" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Bibliography"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"TOC Heading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"41" Name=3D"Plain Table 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"42" Name=3D"Plain Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"43" Name=3D"Plain Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"44" Name=3D"Plain Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"45" Name=3D"Plain Table 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"40" Name=3D"Grid Table Light=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46" Name=3D"Grid Table 1 Lig=
+ht"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51" Name=3D"Grid Table 6 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52" Name=3D"Grid Table 7 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46" Name=3D"List Table 1 Lig=
+ht"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51" Name=3D"List Table 6 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52" Name=3D"List Table 7 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 6"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520092929 1073786111 9 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:8.0pt;
+	mso-para-margin-left:0in;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US style=3D'tab-interval:.5in'>
+
+<div class=3DWordSection1>
+
+<p class=3DMsoNormal>/*--<o:p></o:p></p>
+
+<p class=3DMsoNormal>Author: W3layouts<o:p></o:p></p>
+
+<p class=3DMsoNormal>Author URL: http://w3layouts.com<o:p></o:p></p>
+
+<p class=3DMsoNormal>License: Creative Commons Attribution 3.0 Unported<o:p=
+></o:p></p>
+
+<p class=3DMsoNormal>License URL: http://creativecommons.org/licenses/by/3.=
+0/<o:p></o:p></p>
+
+<p class=3DMsoNormal>--*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>body{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>margin:0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>padding:0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>background:#fff;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>font-family:
+'Open Sans', sans-serif;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'> </span>}<o:p></o:p><=
+/p>
+
+<p class=3DMsoNormal>h1,h2,h3,h4,h5,h6{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>margin:0;<span
+style=3D'mso-tab-count:1'>             </span><o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>font-family:
+'Montserrat', sans-serif;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<span style=3D'mso-tab-count:1'>              </span>=
+<o:p></o:p></p>
+
+<p class=3DMsoNormal>p{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>margin:0;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>ul{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>margin:0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>padding:0;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>p,ul,ol{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>font-size:14px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>input[type=3D&quot;submit&quot;],a,.nbs-flexisel-nav-l=
+eft,.nbs-flexisel-nav-right{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>transition:.5s
+ease-in;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-webkit-transition:.5s
+ease-in;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-moz-transition:.5s
+ease-in;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-o-transition:.5s
+ease-in;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-ms-transition:.5s
+ease-in;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>a:hover{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>text-decoration:none;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>a:focus{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>outline:none;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>text-decoration:none;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>/*-- banner --*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>/*--header -top--*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>/*-- nav --*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3_navigation {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>background: =
+#021523;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>padding: 0=
+.9em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.navbar-default {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background=
+: none;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>border: no=
+ne;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.navbar {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>margin-bot=
+tom: 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.navbar-collapse {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>padding: 0=
+;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.navbar-right {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>margin-rig=
+ht: 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.navbar-default .navbar-nav &gt; .active &gt; a,
+.navbar-default .navbar-nav &gt; .active &gt; a:hover, .navbar-default
+.navbar-nav &gt; .active &gt; a:focus {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color:#fff=
+;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background=
+:none;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.navbar-default .navbar-nav &gt; li &gt; a {<o:p></o:p=
+></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-weigh=
+t: 500;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>letter-spa=
+cing:
+1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.navbar-nav &gt; li &gt; a {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>margin: 0;=
+<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>padding:0 =
+1.5em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>text-trans=
+form:
+uppercase;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.navbar-default .navbar-nav &gt; li &gt; a:hover{<o:p>=
+</o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color:#ef5=
+734;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.navbar-default .navbar-nav &gt; li &gt; a:focus {<o:p=
+></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #ff=
+f;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>outline:none;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>nav.navbar.navbar-default {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background=
+: none;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>padding:1e=
+m 0 0 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.navbar-default .navbar-nav &gt; .open &gt; a,
+.navbar-default .navbar-nav &gt; .open &gt; a:hover, .navbar-default
+.navbar-nav &gt; .open &gt; a:focus {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color:#fff=
+;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background=
+: none;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.navbar-default .navbar-nav &gt; li &gt; a {<o:p></o:p=
+></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #ff=
+f;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.navbar-default .navbar-nav<span style=3D'mso-spacerun=
+:yes'> 
+</span>&gt; .active.open &gt; a:focus {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>background:
+#0a9dbd;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>color:
+#fff;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.navbar-default .navbar-brand,.navbar-default
+.navbar-brand:hover, .navbar-default .navbar-brand:focus {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #ff=
+f;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.navbar-brand {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>padding: 0=
+;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-size:=
+1em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>text-trans=
+form:
+uppercase;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>letter-spacing:1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>line-heigh=
+t:14px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>position:
+relative;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-weigh=
+t: 700;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.navbar-brand span {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #82=
+b9e2;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>p.logo_w3l_agile_caption {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>text-transform:uppercase;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>letter-spacing:9px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-size:=
+ 11px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #8c=
+908c;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-famil=
+y: 'Open
+Sans', sans-serif;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-weigh=
+t: 600;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   </span><span
+style=3D'mso-spacerun:yes'> </span>text-align: center;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.agile_short_dropdown {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>border-rad=
+ius: 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background:
+#ffffff;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>text-align:
+center;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>padding:0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>border:
+none;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.agile_short_dropdown li a{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>text-transform:uppercase;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>color:#212121;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>font-size:13px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>font-weight:600;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>padding:
+.8em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.agile_short_dropdown &gt; li &gt; a:hover{<o:p></o:p>=
+</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #ff=
+f;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>text-decor=
+ation:
+none;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   </span>background-=
+color:
+#ef5734;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>/*-- nav-effect --*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>.menu__list {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>position:
+relative;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>margin:0.5em
+0 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>.menu__item {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>display:
+block;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>margin:
+1em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>.menu__link {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>font-size:
+1.05em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>font-weight:
+bold;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>display:
+block;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>padding:
+1em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>cursor:
+pointer;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-webkit-user-select:
+none;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-moz-user-select:
+none;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-ms-user-select:
+none;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>user-select:
+none;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-webkit-touch-callout:
+none;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-khtml-user-select:
+none;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-webkit-tap-highlight-color:
+rgba(0, 0, 0, 0);<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>/* Iris */<o:p></o:p></p>
+
+<p class=3DMsoNormal>.menu--iris .menu__item {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>margin:0
+0.5em;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>.menu--iris .menu__link {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>position:
+relative;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>text-align:
+center;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-webkit-transition:
+color 0.3s;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>transition:
+color 0.3s;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>text-shadow:
+0px 1px 3px #033815;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>.menu--iris .menu__link:hover,<o:p></o:p></p>
+
+<p class=3DMsoNormal>.menu--iris .menu__link:focus {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>color:
+#929292;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>.menu--iris .menu__item--current
+.menu__link,.menu__link:hover {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>color:#ef5734;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>.menu--iris .menu__link::before,<o:p></o:p></p>
+
+<p class=3DMsoNormal>.menu--iris .menu__link::after {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>content:
+'';<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>position:
+absolute;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>width:
+10px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>height:
+10px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>opacity:
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>border:
+2px solid #ef5734;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-webkit-transition:
+-webkit-transform 0.3s, opacity 0.3s;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>transition:
+transform 0.3s, opacity 0.3s;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-webkit-transition-timing-function:
+cubic-bezier(0.17, 0.67, 0.05, 1.29);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>transition-timing-function:
+cubic-bezier(0.17, 0.67, 0.05, 1.29);<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>.menu--iris .menu__link::before {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>top: 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>left:
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>border-width:
+2px 0 0 2px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-webkit-transform:
+translate3d(10px, 10px, 0);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>transform:
+translate3d(10px, 10px, 0);<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>.menu--iris .menu__link::after {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>right:
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>bottom:
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>border-width:
+0 2px 2px 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-webkit-transform:
+translate3d(-10px, -10px, 0);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>transform:
+translate3d(-10px, -10px, 0);<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>.menu--iris .menu__item--current .menu__link::before,<=
+o:p></o:p></p>
+
+<p class=3DMsoNormal>.menu--iris .menu__item--current
+.menu__link::after,.menu__link:hover::before,.menu__link:hover::after {<o:p=
+></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>opacity:
+1;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-webkit-transform:
+translate3d(0, 0, 0);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>transform:
+translate3d(0, 0, 0);<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.dropdown-menu {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>position:
+absolute;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>top: 226%;=
+<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>left: 0;<o=
+:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>z-index: 1=
+000;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>display: n=
+one;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>/*-- //nav-effect --*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>/*-- banner-text --*/ <o:p></o:p></p>
+
+<p class=3DMsoNormal>.header-w3layouts{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>position:
+absolute;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>top: 0;<o:=
+p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>z-index: 9=
+9;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>text-align:
+center;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>left: 0;<o=
+:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>width: 100=
+%;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.agileits-banner-info h3 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #ff=
+f;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-size:=
+ 6em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>margin: 0.=
+1em 0
+0.2em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>letter-spa=
+cing:
+2px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>text-trans=
+form:
+uppercase;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-weigh=
+t: 700;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>text-shadow:
+1px 1px 2px rgb(12, 12, 12);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-webkit-text-shadow:
+1px 1px 2px rgb(12, 12, 12);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-o-text-shadow:
+1px 1px 2px rgb(12, 12, 12);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-moz-text-shadow:
+1px 1px 2px rgb(12, 12, 12);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+><o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.agileits-banner-info h3 span{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+><span
+style=3D'mso-spacerun:yes'>    </span>background: #2529d8;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>padding: 0=
+ 15px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.agileits-banner-info {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   </span><span
+style=3D'mso-spacerun:yes'> </span>text-align: left;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>padding: 1=
+8em 0
+0em;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.agileits-banner-info p {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #e2=
+dfdf;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-size:=
+ 1em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>line-heigh=
+t:
+2.2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>letter-spa=
+cing:
+2px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-weigh=
+t: 500;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>width: 49%=
+;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>text-align=
+: left;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.agileits_w3layouts_more{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>position:relative;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.agileits_w3layouts_more a{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+><span
+style=3D'mso-spacerun:yes'>    </span>font-size: 17px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #ff=
+f;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>text-decor=
+ation:
+none;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>text-trans=
+form:
+uppercase;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>letter-spa=
+cing:
+4px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>position:
+relative;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>.agileits-banner-info span {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>background:#ef5734;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>padding: 0=
+.5em
+2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #ff=
+f;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-size:=
+ 1.1em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>padding: 5=
+px 2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>text-trans=
+form:
+uppercase;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>letter-spa=
+cing:
+2px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>/*-- //banner-text --*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>/*-- banner-top --*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3layouts-banner-top{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background:
+url(../images/banner.jpg) no-repeat 0px 0px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background=
+-size:
+cover;<span style=3D'mso-tab-count:1'>            </span><o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-webkit-background-size:
+cover;<span style=3D'mso-tab-count:1'>              </span><o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-moz-background-size:
+cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-o-background-size:
+cover;<span style=3D'mso-tab-count:2'>                          </span><o:p=
+></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-moz-background-size:
+cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>min-height:700px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3layouts-banner-top1{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>background:
+url(../images/banner1.jpg) no-repeat 0px 0px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background=
+-size:
+cover;<span style=3D'mso-tab-count:1'>            </span><o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-webkit-background-size:
+cover;<span style=3D'mso-tab-count:1'>              </span><o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-moz-background-size:
+cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-o-background-size:
+cover;<span style=3D'mso-tab-count:2'>                          </span><o:p=
+></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-moz-background-size:
+cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>min-height:700px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3layouts-banner-top2{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>background:
+url(../images/banner2.jpg) no-repeat 0px 0px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background=
+-size:
+cover;<span style=3D'mso-tab-count:1'>            </span><o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-webkit-background-size:
+cover;<span style=3D'mso-tab-count:1'>              </span><o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-moz-background-size:
+cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-o-background-size:
+cover;<span style=3D'mso-tab-count:2'>                          </span><o:p=
+></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-moz-background-size:
+cover;<span style=3D'mso-tab-count:1'>    </span><o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>min-height:700px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3layouts-banner-top3{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>background:
+url(../images/banner3.jpg) no-repeat 0px 0px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background=
+-size:
+cover;<span style=3D'mso-tab-count:1'>            </span><o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-webkit-background-size:
+cover;<span style=3D'mso-tab-count:1'>              </span><o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-moz-background-size:
+cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-o-background-size:
+cover;<span style=3D'mso-tab-count:2'>                          </span><o:p=
+></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-moz-background-size:
+cover;<span style=3D'mso-tab-count:1'>    </span><o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>min-height:700px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>/*-- //banner-top --*/ <o:p></o:p></p>
+
+<p class=3DMsoNormal>/*--about--*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>.about-left_w3ls_img {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background:
+url(../images/ab.jpg)no-repeat center;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>min-height=
+: 642px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background=
+-size:
+cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>-webkit-background-size: cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>-moz-background-size: cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>-o-background-size: cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>-moz-background-size: cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>background-position:fixed;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.about-top_agile_its h2 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>font-size:3em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>font-weight:600;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>color:
+#000;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>text-transform:
+uppercase;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.about-top_agile_its {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>     </span>padding: =
+7em 0em
+0em 3em;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.about-top_agile_its h5 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-size:=
+ 11px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-weigh=
+t: 400;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #33=
+cc99;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>text-trans=
+form:
+uppercase;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>padding: 0=
+px 0px
+10px 0px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>border-bot=
+tom: 1px
+solid #cec8c8;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>margin: 0p=
+x 0px
+15px 0px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>letter-spa=
+cing:
+4px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.about-top_agile_its span {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>     </span>font-weig=
+ht: 600;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-style:
+italic;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #ef=
+5734;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-size:=
+ 1em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>letter-spa=
+cing:
+1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>line-heigh=
+t: 2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.about-top_agile_its p {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>font-size:1e=
+m;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>font-weight:=
+ 400;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>color: #8383=
+83;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>line-height:=
+ 2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>letter-spaci=
+ng:1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>margin-botto=
+m:1em;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>p.w3l_sub_para_agile {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #33=
+cc99;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>letter-spa=
+cing:
+5px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-size:=
+ 0.9em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>text-align:
+center;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-weigh=
+t: 400;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>/*--about end here--*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>/*-- /services --*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>#services {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>     </span>backgroun=
+d:
+url(../images/bottom.jpg) no-repeat 0px 0px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background=
+-size:
+cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>-webkit-background-size: cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>-moz-background-size: cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>-o-background-size: cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>-moz-background-size: cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>min-height=
+:500px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.agile_overlay{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background:
+url(../images/overlay.png)repeat;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>padding: 6=
+em 0
+6.5em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.jarallax {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>position:
+relative;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background=
+-size:
+cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background=
+-repeat:
+no-repeat;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>background-position: 50% 50%;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.wthree_head{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>font-size:3em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #21=
+2121;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>text-trans=
+form:
+uppercase;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>text-align:
+center;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>       </span>letter-=
+spacing:
+2px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-weigh=
+t: bold;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>h3.wthree_head.two {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #ff=
+f;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.agileinfo_para{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>color:#999;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>text-align:center;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.agileits_heading_section img{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>margin:0
+auto;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.inner_w3l_agile_grids {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>margin: 4e=
+m 0 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3ls_banner_bottom_grid{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>text-align:center;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3l_banner_bottom_grid1{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+><span
+style=3D'mso-spacerun:yes'> </span>width: 100px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>height: 10=
+0px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>border:6px=
+ solid
+#fff;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>text-align:
+center;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>margin: 0 =
+auto;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>background:
+rgba(0, 0, 0, 0.26);<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3l_banner_bottom_grid1 i{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>font-size:
+2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #ff=
+464f;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>line-heigh=
+t:
+2.8em;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3ls_banner_bottom_grid:hover .w3l_banner_bottom_grid=
+1 i{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #0a=
+ccff;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3ls_banner_bottom_grid h4{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-size:=
+ 1.7em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #ff=
+f;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>margin: 1.=
+5em 0
+1em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-weigh=
+t: 700;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>letter-spa=
+cing:
+1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3ls_banner_bottom_grid p{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #e2=
+e1e1;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>line-heigh=
+t: 2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>letter-spa=
+cing:
+1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>/* Pulse Shrink */<o:p></o:p></p>
+
+<p class=3DMsoNormal>@-webkit-keyframes hvr-pulse-shrink {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>to {<o:p></o=
+:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>-webkit-tr=
+ansform:
+scale(0.9);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>transform:
+scale(0.9);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>}<o:p></o:p>=
+</p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>@keyframes hvr-pulse-shrink {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>to {<o:p></o=
+:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>-webkit-tr=
+ansform:
+scale(0.9);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>transform:
+scale(0.9);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>}<o:p></o:p>=
+</p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.hvr-pulse-shrink {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>display:
+inline-block;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>vertical-ali=
+gn:
+middle;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>-webkit-tran=
+sform:
+perspective(1px) translateZ(0);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>transform:
+perspective(1px) translateZ(0);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>box-shadow: =
+0 0 1px
+transparent;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.hvr-pulse-shrink:hover, .hvr-pulse-shrink:focus,
+.hvr-pulse-shrink:active,<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3ls_banner_bottom_grid:hover .hvr-pulse-shrink{<o:p>=
+</o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'> 
+</span>-webkit-animation-name: hvr-pulse-shrink;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>animation-na=
+me:
+hvr-pulse-shrink;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'> 
+</span>-webkit-animation-duration: 0.3s;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>animation-du=
+ration:
+0.3s;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'> 
+</span>-webkit-animation-timing-function: linear;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'> 
+</span>animation-timing-function: linear;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'> 
+</span>-webkit-animation-iteration-count: infinite;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'> 
+</span>animation-iteration-count: infinite;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'> 
+</span>-webkit-animation-direction: alternate;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>animation-di=
+rection:
+alternate;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>/*-- //services --*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>/*-- stats --*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3layouts_stats_left{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>padding: 1=
+em 0 4em
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>text-align:center;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3layouts_stats_left p{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-size:=
+ 2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-weigh=
+t: 700;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>letter-spa=
+cing:
+2px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #ff=
+f;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>margin: 0.=
+5em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3layouts_stats_left h3 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>       </span>font-si=
+ze: 1em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #33=
+cc99;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-style:
+italic;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-famil=
+y: 'Open
+Sans', sans-serif;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>letter-spa=
+cing:
+1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-weigh=
+t: 600;<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3layouts_stats_left i {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-size:=
+ 2.5em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #ff=
+f;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3l_stats_bottom_grid_left img{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>margin:0
+auto;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.stats{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+><span
+style=3D'mso-spacerun:yes'> </span>background: url(../images/banner3.jpg)
+no-repeat 0px -212px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background=
+-size:
+cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>-webkit-background-size: cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>-moz-background-size: cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>-o-background-size: cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>-moz-background-size: cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>min-height=
+: 300px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>text-align:
+center;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.agile_overlay2 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background:
+url(../images/overlay.png)repeat;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>       </span>padding=
+: 6em 0
+2.5em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>/*-- //stats --*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>/*-- gallery --*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>#gallery {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>     </span>padding:6=
+em 0 0
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>#portfolio p {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>line-height:=
+ 1.8em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>margin: 25px=
+ 0 0 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>font-size:1.=
+1<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>color: #ffff=
+ff;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>font-weight:=
+ 300;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.gallery-section h3{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   </span>margin: 0;<=
+o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>color: #ffff=
+ff;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>font-size: 3=
+6px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>font-weight:=
+ 500;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>letter-spaci=
+ng:
+18px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.gallery-grid {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>padding: 0;<=
+o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.gallery1 {<o:p></o:p></p>
+
+<p class=3DMsoNormal>position:relative;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.gallery1 .textbox {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>width:100%;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>height:100%;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>position:absolute;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>top:0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>left:0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-webkit-transform:
+scale(0);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>transform:
+scale(0);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>       
+</span>background-color: rgba(51, 204, 153, 0.83);<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.gallery1:hover .textbox {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-webkit-transform:
+scale(1);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>transform:
+scale(1);<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.gallery-grid img{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>width:100%;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>.textbox {<o:p></o:p></p>
+
+<p class=3DMsoNormal>-webkit-transition: all 0.7s ease;<o:p></o:p></p>
+
+<p class=3DMsoNormal>transition: all 0.7s ease;<o:p></o:p></p>
+
+<p class=3DMsoNormal>text-align:center;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.textbox h4 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-size:=
+ 2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #FF=
+F;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>margin-top=
+: 3.5em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>text-trans=
+form:
+uppercase;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-weigh=
+t: 700;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>letter-spa=
+cing:
+5px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.textbox p {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>     </span>font-size=
+: 26px
+!important;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #ff=
+f;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background:
+rgba(0, 0, 0, 0.83);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>margin: 6p=
+x 0 0
+0!important;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>padding: 3=
+px 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.gallery-grids {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>margin-top: =
+50px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>/*--//gallery--*/<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>/*-- contact --*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>.contact-w3ls p.contact-agile1 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-size:=
+ 15px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>letter-spacing:
+1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-weigh=
+t:
+normal;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>padding-bo=
+ttom:
+10px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>line-heigh=
+t: 29px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #ff=
+f;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.contact-w3ls p.contact-agile1 strong {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>letter-spa=
+cing:
+1.5px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color:
+#ffce14!important;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>font-size:
+15px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.contact-w3ls p.contact-agile1 a {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>color:#fff;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.contact-w3ls h4 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+><span
+style=3D'mso-spacerun:yes'>    </span>font-size: 2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>letter-spa=
+cing:
+2px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-weigh=
+t:
+normal;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #33=
+3;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>margin-bottom:10px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-weigh=
+t: bold;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.contact-w3ls p.contact-agile2 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>      </span>font-siz=
+e: 14px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-weigh=
+t:
+normal;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>padding-bo=
+ttom:
+20px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>line-heigh=
+t: 30px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #ef=
+5734;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>letter-spa=
+cing:
+3px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.contact-w3ls label.contact-p1 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>        </span>font-s=
+ize:
+14px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>letter-spa=
+cing:
+1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-weigh=
+t: 600;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #4b=
+4d50;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>padding-bo=
+ttom:
+10px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.form-group {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>margin-bot=
+tom:
+5px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.contact-w3ls p.help-block {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>color:#ff0500!important;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.contact-w3ls input#name,.contact-w3ls
+input#email,.contact-w3ls input#phone<span style=3D'mso-spacerun:yes'>  </s=
+pan>{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>height:45px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.contact-w3ls input#name, .contact-w3ls input#email,
+.contact-w3ls input#phone {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-size:=
+ 15px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-weigh=
+t:
+normal;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #99=
+9;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>border-rad=
+ius: 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>border-col=
+or:
+#fff;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>outline: n=
+one;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>box-shadow=
+: none;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>border: 1p=
+x solid
+#ddd;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>letter-spa=
+cing:
+1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.contact-w3ls button.btn.btn-primary {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #ff=
+f;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background:
+#33cc99;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>border: no=
+ne;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-size:=
+ 17px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>padding: 1=
+5px
+20px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>width: 100=
+%;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>margin: 25=
+px 0
+8px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>text-trans=
+form:
+uppercase;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>letter-spa=
+cing:
+1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>outline:none;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+><span
+style=3D'mso-spacerun:yes'> </span>box-shadow: none;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+><span
+style=3D'mso-spacerun:yes'> </span>border-radius:0px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+><o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.contact-w3ls button.btn.btn-primary:hover {<o:p></o:p=
+></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+><span
+style=3D'mso-spacerun:yes'> </span>background: #ef5734;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>-webkit-transition: all 0.5s ease 0.01s;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>-o-transit=
+ion: all
+0.5s ease 0.01s;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+><span
+style=3D'mso-spacerun:yes'> </span>-moz-transition: all 0.5s ease 0.01s;<o:=
+p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>transition=
+: all
+0.5s ease 0.01s;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+><o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3l_area_its {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>padding-le=
+ft: 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.control-group.form-group.has-warning ul li {<o:p></o:=
+p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>list-style=
+: none;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.control-group.form-group ul li {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>list-style=
+: none;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>input::-webkit-input-placeholder {<o:p></o:p></p>
+
+<p class=3DMsoNormal>color: #111!important;<o:p></o:p></p>
+
+<p class=3DMsoNormal>} <o:p></o:p></p>
+
+<p class=3DMsoNormal>input:-moz-placeholder { /* Firefox 18- */<o:p></o:p><=
+/p>
+
+<p class=3DMsoNormal>color: #111 !important;<span style=3D'mso-spacerun:yes=
+'> 
+</span><o:p></o:p></p>
+
+<p class=3DMsoNormal>} <o:p></o:p></p>
+
+<p class=3DMsoNormal>input::-moz-placeholder {<span style=3D'mso-spacerun:y=
+es'> 
+</span>/* Firefox 19+ */<o:p></o:p></p>
+
+<p class=3DMsoNormal>color: #111 !important;<span style=3D'mso-spacerun:yes=
+'> 
+</span><o:p></o:p></p>
+
+<p class=3DMsoNormal>} <o:p></o:p></p>
+
+<p class=3DMsoNormal>input:-ms-input-placeholder {<span
+style=3D'mso-spacerun:yes'>  </span><o:p></o:p></p>
+
+<p class=3DMsoNormal>color: #111 !important;<span style=3D'mso-spacerun:yes=
+'> 
+</span><o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.footer-icons-agileinfo{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>margin-left:0!important;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.contact-w3-agile1 iframe {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>     </span>width: 10=
+0%;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>height:350=
+px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>outline: n=
+one;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>border: no=
+ne;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.map {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>-webkit-fi=
+lter:
+grayscale(100%);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>-moz-filte=
+r:
+grayscale(100%);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>-ms-filter:
+grayscale(100%);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>-o-filter:
+grayscale(100%);<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>filter:
+grayscale(100%);<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>#contact {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>padding:6e=
+m 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>/*-- //contact --*/<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>/*-- footer --*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>.agile-footer {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background:
+url(../images/banner.jpg) no-repeat 0px -212px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background=
+-size:
+cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>-webkit-ba=
+ckground-size:
+cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>-moz-background-size: cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>-o-background-size: cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>-moz-background-size: cover;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>min-height=
+: 300px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>text-align:
+center;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.agile_overlay1 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background:
+url(../images/overlay.png)repeat;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>padding:6e=
+m 0 4.5em
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.aglie-info-logo h5 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #0a=
+ca89;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-size:=
+ 60px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>line-heigh=
+t: 75px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>border: 3p=
+x solid
+#0aca89;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>border-rad=
+ius:
+50%;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>width: 80p=
+x;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>height: 80=
+px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>margin: 0 =
+auto;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.banner-mid-wthree i {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-size:=
+ 3em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #ff=
+f;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>/*-- mail --*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3_agileits_social_media {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>margin: 2e=
+m 0 2em
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3_agileits_social_media ul li{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>display:
+inline-block;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-weigh=
+t: 600;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>margin: 0 =
+1em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-size:=
+ 1.2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3_agileits_social_media ul li a {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>display: b=
+lock;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #ff=
+f;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>text-decor=
+ation:
+none;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>width: 32p=
+x;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>height: 32=
+px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>background=
+: #fff;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3_agileits_social_media ul li a:hover {<o:p></o:p></=
+p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>opacity:0.6;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.agileinfo_share{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>margin-rig=
+ht: 1em
+!important;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>color:#fff;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3_agileits_social_media ul li a.wthree_facebook{<o:p=
+></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>color:#3b5998;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3_agileits_social_media ul li a.wthree_twitter{<o:p>=
+</o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>color:#1da1f2;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3_agileits_social_media ul li a.wthree_instagram{<o:=
+p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>color:#ea4c89;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3_agileits_social_media ul li a.wthree_rss{<o:p></o:=
+p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>color:#f26522;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.w3_agileits_social_media i {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>line-heigh=
+t: 33px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.copy-right p{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>color:#fff;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>line-height:1.8em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+><span
+style=3D'mso-spacerun:yes'>    </span>letter-spacing: 1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.copy-right p a{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>color:
+#33cc99;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>text-decoration:none;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.copy-right p a:hover{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>color:#fff;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>.cam a {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>color: #ff=
+f;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-size:=
+ 3em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>font-weigh=
+t: 700;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>/*-- //footer --*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>/*-- to-top --*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>#toTop {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>display:
+none;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>text-decoration:
+none;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>position:
+fixed;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>bottom:
+55px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>right:
+2%;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>overflow:
+hidden;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>z-index:
+999; <o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>width:
+32px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>height:
+32px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>border:
+none;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>text-indent:
+100%;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>background:
+url(../images/up.png) no-repeat 0px 0px;<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>#toTopHover {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>width:
+32px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>height:
+32px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>display:
+block;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>overflow:
+hidden;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>float:
+right;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>opacity:
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>-moz-opacity:
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>filter:
+alpha(opacity=3D0);<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>/*-- //to-top --*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>/*--start-responsive-design--*/<o:p></o:p></p>
+
+<p class=3DMsoNormal>@media (max-width:1440px){<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+16em 0 0em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3layouts-banner-top,.w3layouts-banner-top1,.w3layouts-banner-top2,.w3lay=
+outs-banner-top3{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>min-height:650px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.wthree_head
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+2.8em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.about-top_agile_its
+h2 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+2.5em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+h3 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+5.5em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+0.1em 0 0.2em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.textbox
+h4 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin-top:3em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>#contact
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:5em
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>#gallery
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:5em
+0 0 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.navbar-brand
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+0.9em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>@media (max-width:1280px){<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>.w3layouts-banner-top,.w3layouts-banner-top1,.w3layouts-banner-top2,=
+.w3layouts-banner-top3{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>min-height:600px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.wthree_head
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+2.5em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+14em 0 0em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.textbox
+h4 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>      
+</span>margin-top:2.5em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+><span
+style=3D'mso-spacerun:yes'>   </span>letter-spacing:3px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>}<o:p></o:=
+p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>#contact
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:4em
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>#gallery
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+4em 0 0 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.inner_w3l_agile_grids
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+3em 0 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agile_overlay
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+5em 0 5em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+h3 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+5em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+0.1em 0 0.2em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>@media (max-width:1080px){<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.about-top_agile_its
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+4em 0em 0em 1em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.about-left_w3ls_img
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>      </span>min-heig=
+ht:
+519px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+h3 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+4em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+0.1em 0 0.2em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.menu--iris
+.menu__item {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+0 0.3em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.menu__link
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>      </span>font-siz=
+e: 1em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.textbox
+h4 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin-top:
+2.3em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>letter-spacing:
+2px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.8em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3l_banner_bottom_grid1
+i {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>line-height:
+3.1em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.about-top_agile_its
+h2 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+2.3em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>@media (max-width:1050px){<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3layouts-banner-top,
+.w3layouts-banner-top1, .w3layouts-banner-top2, .w3layouts-banner-top3 {<o:=
+p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>min-height:
+530px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+p {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+0.9em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>line-height:
+2.2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>width:
+51%;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>text-align:
+left;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+h3 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:3.5em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+0.1em 0 0.2em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+13em 0 0em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agile_overlay2
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+5em 0 2em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.wthree_head
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+2.3em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>letter-spacing:
+1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>@media (max-width:1024px){<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+13em 0 0 2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3layouts-banner-top,
+.w3layouts-banner-top1, .w3layouts-banner-top2, .w3layouts-banner-top3 {<o:=
+p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>min-height:500px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3ls_banner_bottom_grid
+h4 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.5em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+1.5em 0 1em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>#contact
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+3em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.contact-w3ls
+h4 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.6em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>letter-spacing:
+1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>@media (max-width:991px){<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.navbar-nav
+&gt; li &gt; a {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+0 1em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.menu__link
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+0.9em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.navbar-brand
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+0.75em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+11em 0 0 0em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+p {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+0.9em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>line-height:
+2.2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>width:
+65%;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>text-align:
+left;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.about-left_w3ls_img
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>min-height:
+463px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.about-top_agile_its
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+3em 0em 3em 0em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.about-right_w3ls
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3ls_banner_bottom_grid:nth-child(2){<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:2em
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agile_overlay
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+4em 0 4em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.gallery-grid
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>float:
+left;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>width:
+33%;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.textbox
+h4 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin-top:
+2.9em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>letter-spacing:
+2px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.7em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3l_area_its
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3l_area
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin-top:
+1.1em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3layouts_stats_left
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+1em 0 2em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>text-align:
+center;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>float:
+left;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>width:
+50%;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agile_overlay2
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+4em 0 2em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.about-top_agile_its
+p {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+0.9em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin-bottom:
+1em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.inner_w3l_agile_grids
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+2em 0 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>p.logo_w3l_agile_caption
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>letter-spacing:8px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+9px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>@media (max-width:800px){<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+11em 0 0 2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+><o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>@media (max-width:768px){<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3layouts-banner-top,
+.w3layouts-banner-top1, .w3layouts-banner-top2, .w3layouts-banner-top3 {<o:=
+p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>min-height:450px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>.agileits-banner-info
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+10em 0 0 3em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.about-left_w3ls_img
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>min-height:
+375px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.textbox
+h4 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin-top:
+2.3em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>letter-spacing:
+2px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.7em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agile_overlay1
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+4em 0 4em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agile-footer
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>min-height:
+282px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>@media (max-width:767px){<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span>.navbar-defa=
+ult
+.navbar-toggle .icon-bar {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>background-color:
+#fff;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.navbar-default
+.navbar-toggle {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>border-color:
+#fff;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.navbar-default
+.navbar-toggle:hover, .navbar-default .navbar-toggle:focus {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>background-color:
+transparent;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.navbar-default
+.navbar-collapse, .navbar-default .navbar-form {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>border:
+none;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.nav
+&gt; li &gt; a {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>display:
+inline-block;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.navbar-collapse
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>box-shadow:
+none;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.menu__list
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+1em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>background:
+#0a0a0a;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>text-align:
+center;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.menu--iris
+.menu__item {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+0 0 1em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.navbar-nav
+.open .dropdown-menu {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>background-color:#1f7f9a;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.navbar-default
+.navbar-nav .open .dropdown-menu &gt; li &gt; a {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>color:
+#fff;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.navbar-nav
+.open .dropdown-menu &gt; li &gt; a, .navbar-nav .open .dropdown-menu
+.dropdown-header {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+10px 15px 10px 25px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.navbar-default
+.navbar-collapse, .navbar-default .navbar-form {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>border:
+none;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>position:
+absolute;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>width:
+100%;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>background:
+#a5a5a5;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>z-index:
+999;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.navbar-toggle
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+.8em 0 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.navbar-nav
+&gt; li &gt; a {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+0 3em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.navbar-toggle
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+0em 0 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>border-radius:
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+10px 10px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3layouts_stats_left
+p {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.6em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>letter-spacing:
+2px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.navbar-default
+.navbar-toggle .icon-bar {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>      
+</span>background-color:#ef5734;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.navbar-toggle
+.icon-bar {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>display:
+block;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>width:
+22px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>height:
+3px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3layouts_stats_left
+h3 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>      </span>font-siz=
+e:
+0.9em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3_navigation
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+0.5em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>@media (max-width:667px){<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3layouts-banner-top,
+.w3layouts-banner-top1, .w3layouts-banner-top2, .w3layouts-banner-top3 {<o:=
+p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>min-height:
+400px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>.agileits-banner-info h3 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:2.5em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+0.1em 0 0.2em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+p {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>line-height:
+2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span><span
+style=3D'mso-spacerun:yes'> </span>width: 86%;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>text-align:
+left;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+8em 0 0 3em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.textbox
+h4 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin-top:
+1.7em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>letter-spacing:
+1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.6em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.textbox
+p {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+20px !important;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+6px 0 0 0!important;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+3px 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>@media (max-width:640px){<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>.w3layouts-banner-top, .w3layouts-banner-top1, .w3layouts-banner-top=
+2,
+.w3layouts-banner-top3 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>min-height:350px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+7em 0 0 3em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>@media (max-width:600px){<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.gallery-grid
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>float:
+left;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>width:
+50%;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.textbox
+h4 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin-top:
+2.8em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>letter-spacing:
+1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.6em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+6em 0 0 3em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.about-top_agile_its
+h2 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3l_banner_bottom_grid1
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>width:
+80px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>height:
+80px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3l_banner_bottom_grid1
+i {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.8em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>line-height:
+2.8em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3ls_banner_bottom_grid
+h4 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.5em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+1.5em 0 0.5em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>@media (max-width:568px){<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+h3 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+0.1em 0 0.2em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+span {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+0.9em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+4px 1.2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>letter-spacing:
+1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>@media (max-width:480px){<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3layouts-banner-top,
+.w3layouts-banner-top1, .w3layouts-banner-top2, .w3layouts-banner-top3 {<o:=
+p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>min-height:
+300px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+h3 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+0.1em 0 0.2em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+4em 0 0 3em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.about-left_w3ls_img
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>min-height:
+321px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.about-top_agile_its
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+2em 0em 2em 0em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.textbox
+h4 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin-top:
+2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>letter-spacing:
+1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.6em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.wthree_head
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>letter-spacing:
+1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>p.w3l_sub_para_agile
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>letter-spacing:
+3px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+0.9em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agile_overlay1
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+3em 0 3em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.contact-w3ls
+p.contact-agile2 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+13px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding-bottom:
+20px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>line-height:
+30px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>#gallery
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+3em 0 0 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.contact-w3-agile1
+iframe {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>height:
+250px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>@media (max-width:414px){<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+p {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>line-height:
+1.9em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>width:
+100%;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>text-align:
+left;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+4em 0 0 2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3layouts-banner-top,
+.w3layouts-banner-top1, .w3layouts-banner-top2, .w3layouts-banner-top3 {<o:=
+p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>min-height:280px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.about-left_w3ls_img
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>min-height:
+272px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3ls_banner_bottom_grid
+h4 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.3em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+1.5em 0 0.5em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.textbox
+h4 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin-top:
+1.6em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>letter-spacing:
+1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.6em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>@media (max-width:384px){<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.about-top_agile_its
+span {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+0.9em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3ls_banner_bottom_grid
+p {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+0.9em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agile_overlay
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+3em 0 3em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3layouts_stats_left
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+1em 0 1em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>text-align:
+center;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>float:
+left;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>width:
+50%;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.inner_w3l_agile_grids
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+1.5em 0 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>@media (max-width:375px){<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.textbox
+h4 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin-top:
+1.5em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>letter-spacing:
+1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.4em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.about-top_agile_its
+h5 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+10px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>letter-spacing:
+2px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.about-top_agile_its
+h2 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.6em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.wthree_head
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.6em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>letter-spacing:
+1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3ls_banner_bottom_grid
+h4 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+1.5em 0 0.5em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3_agileits_social_media
+ul li {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+0 0.5em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.2em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.cam a
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+2.5em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agile-footer
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>min-height:
+254px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+h3 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.7em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+0.1em 0 0.2em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>@media (max-width:320px){<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+3em 0 0 1em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+p {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>line-height:
+1.9em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+0.8em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3layouts-banner-top,
+.w3layouts-banner-top1, .w3layouts-banner-top2, .w3layouts-banner-top3 {<o:=
+p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>min-height:
+250px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.gallery-grid
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>float:
+left;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>width:
+100%;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.textbox
+h4 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin-top:
+3.5em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>letter-spacing:
+1px;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.4em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.w3layouts_stats_left
+i {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.8em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.agileits-banner-info
+h3 {<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+1.6em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>margin:
+0.1em 0 0.2em 0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>.navbar-brand
+{<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>padding:
+0;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:2'>                      =
+          </span>font-size:
+0.65em;<o:p></o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>                </span=
+>}<o:p></o:p></p>
+
+<p class=3DMsoNormal>}</p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01D30A18.8F32A470
+Content-Location: file:///C:/1E689AD3/style.css_files/themedata.thmx
+Content-Transfer-Encoding: base64
+Content-Type: application/vnd.ms-officetheme
+
+UEsDBBQABgAIAAAAIQDp3g+//wAAABwCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbKyRy07DMBBF
+90j8g+UtSpyyQAgl6YLHjseifMDImSQWydiyp1X790zSVEKoIBZsLNkz954743K9Hwe1w5icp0qv
+8kIrJOsbR12l3zdP2a1WiYEaGDxhpQ+Y9Lq+vCg3h4BJiZpSpXvmcGdMsj2OkHIfkKTS+jgCyzV2
+JoD9gA7NdVHcGOuJkTjjyUPX5QO2sB1YPe7l+Zgk4pC0uj82TqxKQwiDs8CS1Oyo+UbJFkIuyrkn
+9S6kK4mhzVnCVPkZsOheZTXRNajeIPILjBLDsAyJX89nIBkt5r87nons29ZZbLzdjrKOfDZezE7B
+/xRg9T/oE9PMf1t/AgAA//8DAFBLAwQUAAYACAAAACEApdan58AAAAA2AQAACwAAAF9yZWxzLy5y
+ZWxzhI/PasMwDIfvhb2D0X1R0sMYJXYvpZBDL6N9AOEof2giG9sb69tPxwYKuwiEpO/3qT3+rov5
+4ZTnIBaaqgbD4kM/y2jhdj2/f4LJhaSnJQhbeHCGo3vbtV+8UNGjPM0xG6VItjCVEg+I2U+8Uq5C
+ZNHJENJKRds0YiR/p5FxX9cfmJ4Z4DZM0/UWUtc3YK6PqMn/s8MwzJ5PwX+vLOVFBG43lExp5GKh
+qC/jU72QqGWq1B7Qtbj51v0BAAD//wMAUEsDBBQABgAIAAAAIQBreZYWgwAAAIoAAAAcAAAAdGhl
+bWUvdGhlbWUvdGhlbWVNYW5hZ2VyLnhtbAzMTQrDIBBA4X2hd5DZN2O7KEVissuuu/YAQ5waQceg
+0p/b1+XjgzfO3xTVm0sNWSycBw2KZc0uiLfwfCynG6jaSBzFLGzhxxXm6XgYybSNE99JyHNRfSPV
+kIWttd0g1rUr1SHvLN1euSRqPYtHV+jT9yniResrJgoCOP0BAAD//wMAUEsDBBQABgAIAAAAIQCq
+UiXfxgYAAIsaAAAWAAAAdGhlbWUvdGhlbWUvdGhlbWUxLnhtbOxZXYvbRhR9L/Q/CL07/pL8scQb
+bNnOttlNQuyk5HFsj63JjjRGM96NCYGSPBYKpWnpQwN960NpG0igL+mv2TalTSF/oXdGtjxjj7ub
+JYWlZA2LNDr3zpl7r84dSZev3I+oc4QTTljccIuXCq6D4yEbkXjScG/3u7ma63CB4hGiLMYNd465
+e2X3ww8uox0R4gg7YB/zHdRwQyGmO/k8H8Iw4pfYFMdwbcySCAk4TSb5UYKOwW9E86VCoZKPEIld
+J0YRuL0xHpMhdvrSpbu7dN6hcBoLLgeGNOlJ19iwUNjRYVEi+JwHNHGOEG24MM+IHffxfeE6FHEB
+FxpuQf25+d3LebSzMKJii61m11V/C7uFweiwpOZMJoNsUs/zvUoz868AVGziOtVOpVPJ/CkAGg5h
+pSkX3affqrfa/gKrgdJDi+92tV0uGnjNf3mDc9OXPwOvQKl/bwPf7QYQRQOvQCne38B7XrUUeAZe
+gVJ8ZQNfLTTbXtXAK1BISXy4gS74lXKwXG0GGTO6Z4XXfa9bLS2cr1BQDVl1ySnGLBbbai1C91jS
+BYAEUiRI7Ij5FI/REKo4QJQMEuLsk0kIhTdFMeMwXCgVuoUy/Jc/Tx2piKAdjDRryQuY8I0hycfh
+w4RMRcP9GLy6GuTNyx/fvHzunDx6cfLol5PHj08e/Zw6Mqz2UDzRrV5//8XfTz91/nr+3esnX9nx
+XMf//tNnv/36pR0IK12F4NXXz/548ezVN5//+cMTC7yZoIEO75MIc+c6PnZusQgWpkJgMseD5O0s
++iEiukUznnAUIzmLxX9HhAb6+hxRZMG1sBnBOwlIjA14dXbPINwLk5kgFo/XwsgAHjBGWyyxRuGa
+nEsLc38WT+yTJzMddwuhI9vcAYqN/HZmU9BWYnMZhNigeZOiWKAJjrFw5DV2iLFldXcJMeJ6QIYJ
+42wsnLvEaSFiDUmfDIxqWhntkQjyMrcRhHwbsTm447QYta26jY9MJNwViFrI9zE1wngVzQSKbC77
+KKJ6wPeRCG0ke/NkqOM6XECmJ5gypzPCnNtsbiSwXi3p10Be7Gk/oPPIRCaCHNp87iPGdGSbHQYh
+iqY2bI/EoY79iB9CiSLnJhM2+AEz7xB5DnlA8dZ03yHYSPfpanAblFWntCoQeWWWWHJ5FTOjfntz
+OkZYSQ0Iv6HnEYlPFfc1Wff/W1kHIX317VPLqi6qoDcTYr2j9tZkfBtuXbwDlozIxdfuNprFNzHc
+LpsN7L10v5du938v3dvu53cv2CuNBvmWW8V0q6427tHWffuYUNoTc4r3udq6c+hMoy4MSjv1zIqz
+57hpCIfyToYJDNwkQcrGSZj4hIiwF6Ip7O+LrnQy4QvXE+5MGYdtvxq2+pZ4OosO2Ch9XC0W5aNp
+Kh4cidV4wc/G4VFDpOhKdfUIlrlXbCfqUXlJQNq+DQltMpNE2UKiuhyUQVIP5hA0Cwm1snfCom5h
+UZPul6naYAHUsqzA1smBDVfD9T0wASN4okIUj2Se0lQvs6uS+S4zvS2YRgXAPmJZAatM1yXXrcuT
+q0tL7QyZNkho5WaSUJFRPYyHaIQX1SlHz0LjbXNdX6XUoCdDoeaD0lrRqNb+jcV5cw1269pAY10p
+aOwcN9xK2YeSGaJpwx3DYz8cRlOoHS63vIhO4N3ZUCTpDX8eZZkmXLQRD9OAK9FJ1SAiAicOJVHD
+lcvP0kBjpSGKW7EEgnBhydVBVi4aOUi6mWQ8HuOh0NOujchIp6eg8KlWWK8q8/ODpSWbQbp74ejY
+GdBZcgtBifnVogzgiHB4+1NMozki8DozE7JV/a01poXs6u8TVQ2l44hOQ7ToKLqYp3Al5RkddZbF
+QDtbrBkCqoVk0QgHE9lg9aAa3TTrGimHrV33dCMZOU00Vz3TUBXZNe0qZsywbANrsTxfk9dYLUMM
+mqZ3+FS61yW3vtS6tX1C1iUg4Fn8LF33DA1Bo7aazKAmGW/KsNTsxajZO5YLPIXaWZqEpvqVpdu1
+uGU9wjodDJ6r84PdetXC0Hi5r1SRVt899E8TbHAPxKMNL4FnVHCVSvjwkCDYEPXUniSVDbhF7ovF
+rQFHziwhDfdBwW96QckPcoWa38l5Za+Qq/nNcq7p++Vixy8W2q3SQ2gsIoyKfvrNpQuvouh88eVF
+jW98fYmWb9suDVmUZ+rrSl4RV19fiqXtX18cAqLzoFLq1sv1ViVXLze7Oa/dquXqQaWVa1eCarvb
+DvxavfvQdY4U2GuWA6/SqeUqxSDIeZWCpF+r56peqdT0qs1ax2s+XGxjYOWpfCxiAeFVvHb/AQAA
+//8DAFBLAwQUAAYACAAAACEADdGQn7YAAAAbAQAAJwAAAHRoZW1lL3RoZW1lL19yZWxzL3RoZW1l
+TWFuYWdlci54bWwucmVsc4SPTQrCMBSE94J3CG9v07oQkSbdiNCt1AOE5DUNNj8kUeztDa4sCC6H
+Yb6ZabuXnckTYzLeMWiqGgg66ZVxmsFtuOyOQFIWTonZO2SwYIKObzftFWeRSyhNJiRSKC4xmHIO
+J0qTnNCKVPmArjijj1bkIqOmQci70Ej3dX2g8ZsBfMUkvWIQe9UAGZZQmv+z/TgaiWcvHxZd/lFB
+c9mFBSiixszgI5uqTATKW7q6xN8AAAD//wMAUEsBAi0AFAAGAAgAAAAhAOneD7//AAAAHAIAABMA
+AAAAAAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEApdan58AA
+AAA2AQAACwAAAAAAAAAAAAAAAAAwAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAa3mWFoMA
+AACKAAAAHAAAAAAAAAAAAAAAAAAZAgAAdGhlbWUvdGhlbWUvdGhlbWVNYW5hZ2VyLnhtbFBLAQIt
+ABQABgAIAAAAIQCqUiXfxgYAAIsaAAAWAAAAAAAAAAAAAAAAANYCAAB0aGVtZS90aGVtZS90aGVt
+ZTEueG1sUEsBAi0AFAAGAAgAAAAhAA3RkJ+2AAAAGwEAACcAAAAAAAAAAAAAAAAA0AkAAHRoZW1l
+L3RoZW1lL19yZWxzL3RoZW1lTWFuYWdlci54bWwucmVsc1BLBQYAAAAABQAFAF0BAADLCgAAAAA=
+
+------=_NextPart_01D30A18.8F32A470
+Content-Location: file:///C:/1E689AD3/style.css_files/colorschememapping.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+<?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"yes"?>
+<a:clrMap xmlns:a=3D"http://schemas.openxmlformats.org/drawingml/2006/main"=
+ bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
+2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
+ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
+------=_NextPart_01D30A18.8F32A470
+Content-Location: file:///C:/1E689AD3/style.css_files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../style.css.htm"/>
+ <o:File HRef=3D"themedata.thmx"/>
+ <o:File HRef=3D"colorschememapping.xml"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01D30A18.8F32A470--
